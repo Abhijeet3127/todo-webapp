@@ -1,0 +1,11 @@
+{
+    "task": "Build a simple todo webapp",
+    "description": "Create a simple todo web application using HTML, CSS, and JavaScript. The app should allow users to add, edit, and delete tasks. It should also have a feature to mark tasks as completed.",
+    "requirements": [
+        "Use HTML to create the structure of the webapp.",
+        "Use CSS to style the webapp and make it visually appealing.",
+        "Use JavaScript to add interactivity to the webapp, such as adding, editing, deleting, and marking tasks as completed.",
+        "Ensure that the app is responsive and works well on different screen sizes."
+    ],
+    "status": true
+}
